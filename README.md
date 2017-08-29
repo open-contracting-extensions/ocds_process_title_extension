@@ -1,4 +1,4 @@
-## Process title and description
+# Process title and description
 
 In some cases it is important to provide an overall title and description for a contracting process, distinct from the individual title and description fields contained within ```tender```, ```award``` and ```contract``` blocks.
 

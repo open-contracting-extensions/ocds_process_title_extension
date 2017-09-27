@@ -7,3 +7,7 @@ This extension provides ```release.title``` and ```release.description``` fields
 These will often be used to provide a human-readable summary of information that is provided elsewhere in the OCDS document as structured data.
 
 Publishers using these fields should be aware that not all applications will display their contents, and so key information for understanding the nature of the contracting process should generally **also** be provided using core OCDS fields.
+
+## Issues
+
+Report issues for this extension in the [ocds-extensions repository](https://github.com/open-contracting/ocds-extensions/issues), putting the extension's name in the issue's title.

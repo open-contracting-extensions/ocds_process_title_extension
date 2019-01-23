@@ -6,7 +6,7 @@
     "en": "For providing overall process titles and descriptions, often to give a free-text summary of the contracting process as a whole."
   },
   "documentationUrl": {
-    "en": "http://standard.open-contracting.org/1.1/en/extensions/process_title/"
+    "en": "https://extensions.open-contracting.org/en/extensions/process_title/"
   },
   "compatibility": [
     "1.1"

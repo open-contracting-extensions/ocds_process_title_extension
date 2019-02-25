@@ -23,6 +23,10 @@ Report issues for this extension in the [ocds-extensions repository](https://git
 
 ## Changelog
 
+### v1.1.4
+
+* Add example to readme
+
 ### v1.1.3
 
 * Use Apache 2.0 License

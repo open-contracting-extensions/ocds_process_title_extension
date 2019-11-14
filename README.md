@@ -1,6 +1,6 @@
 # Process title and description
 
-In some cases it is important to provide an overall title and description for a contracting process, distinct from the individual title and description fields contained within `tender`, `award` and `contract` blocks.
+In some cases it is important to provide an overall title and description for a contracting process, distinct from the individual title and description fields contained within `tender`, `awards` and `contracts` sections.
 
 This extension adds `title` and `description` fields to the release schema.
 

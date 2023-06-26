@@ -2,19 +2,19 @@
   "properties": {
     "title": {
       "title": "Title",
+      "description": "A overall title for this contracting process or release.",
       "type": [
         "string",
         "null"
-      ],
-      "description": "A overall title for this contracting process or release."
+      ]
     },
     "description": {
       "title": "Description",
+      "description": "An overall description of this contracting process or release. This does not replace a detailed breakdown of the objects of the contracting process in the planning, tender, award or contracts section.",
       "type": [
         "string",
         "null"
-      ],
-      "description": "An overall description of this contracting process or release. This does not replace a detailed breakdown of the objects of the contracting process in the planning, tender, award or contracts section."
+      ]
     }
   }
 }

@@ -3,7 +3,7 @@
     "en": "Process level title and description"
   },
   "description": {
-    "en": "For providing overall process titles and descriptions, often to give a free-text summary of the contracting process as a whole."
+    "en": "For providing overall process titles and descriptions, often to give a summary of the contracting process as a whole."
   },
   "documentationUrl": {
     "en": "https://extensions.open-contracting.org/en/extensions/process_title/"
